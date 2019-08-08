@@ -6,6 +6,8 @@ namespace sensitive_repo_demo
     {
         static void Main(string[] args)
         {
+			string awsAccessKey = "REPLACED";
+			string awsSecretKey = "REPLACED";
             Console.WriteLine("Hello World!");
         }
     }
