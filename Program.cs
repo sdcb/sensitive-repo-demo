@@ -8,7 +8,7 @@ namespace sensitive_repo_demo
         {
 			string awsAccessKey = "pwiCZSMCIcM6+q+h";
 			string awsSecretKey = "861YUaeCHqzaS5OX+OmAK1XD37kmQhA2";
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, I Switched to correct email!");
         }
     }
 }
