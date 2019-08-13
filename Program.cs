@@ -8,7 +8,7 @@ namespace sensitive_repo_demo
         {
 			string awsAccessKey = "REPLACED";
 			string awsSecretKey = "REPLACED";
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello, I Switched to correct email!");
         }
     }
 }
